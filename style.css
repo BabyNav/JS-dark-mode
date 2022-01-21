@@ -1,0 +1,9 @@
+.slide {
+    display:none;   
+}
+.show {
+    display: block;
+}
+img {
+    width: 100%;
+}
